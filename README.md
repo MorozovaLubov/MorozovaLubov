@@ -29,3 +29,13 @@
 количество информации, я хотела оптимизировать и улучшить этот процесс. Меня поразила
 аналитика данных своей «магией», что можно строить гипотезы и делать выводы,
 основываясь не на эмпирическом опыте, а на конкретных результатах.
+
+### :hammer_and_wrench: Языки и инструменты:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/256/tableau-software.png" title="Tableau" alt="Redux " width="40" height="40"/>&nbsp;
+</div>
